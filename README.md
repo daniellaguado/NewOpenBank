@@ -24,7 +24,7 @@ validação
 quem ja crio uma conta de usuario pode ingresar no login, mas se não tem alguma conta criada não vai poder ser logado no app
 <h2>erro no login / catastro</h2>
 Um problema esta acontecendo quando ingresamos, saimos e vamos para a pagina de catastro, e depois vamos a de login, aparece que as keys dos formularios não podem utilizadas ao mesmo tempo: "Múltiples widgets usaron el mismo GlobalKey." Não sei pq esta acontecendo esse erro, tentei divdir os keys por nome, o documento esta em proveedores / auth_form.dart ai está a logica que utilizei achando que ia solucionar.
-<h2> Dificuldade com os documentos<h2>
+<h2> Dificuldade com os documentos</h2>
 Assim que o usuario consegue loggar ele vai para uma tela onde segundo os usuarios criados vão aparecer ai os emails (tipo uma conta admin), mas a dificuldade que aprensentei fue que não consegui retornar as informações de quem esteja sendo logado, precisei primeiro mostrar a lista de documentos e depois dai consigo filtrar as informações por usuario, a logica de esse segmento é encontrada na pagina 'home_page.dart' que esta en la pasta screens. Pienso que nessa parte do StreamBuilder teria que aplicar a logica para retornar só 1 mas não consegui por enquanto.
 <h2>tela de autenticação</h2>
 esta tela é a main_screen, filtra que fez login e quem não, quem não fez login manda ele pra login, e que esta logado manter ele dentro de home mesmo que feche o aplicativo.
