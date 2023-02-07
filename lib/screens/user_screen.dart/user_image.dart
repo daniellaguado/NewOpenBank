@@ -17,7 +17,7 @@ class UserImage extends StatelessWidget {
           width: 90,
           height: 90,
           decoration: BoxDecoration(borderRadius: BorderRadius.circular(100)),
-          child: imgProfile == null
+          child: imgProfile == ""
               ? const FadeInImage(
                   placeholder: AssetImage('assets/loading.gif'),
                   image: AssetImage('assets/no-image.png'),
