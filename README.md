@@ -42,5 +42,5 @@ O widget onde está no nome e na foto de perfil ele não é reconstruido assim q
 eu tengo que atualizar o aplicativo para atualizar o nome e a imagem
 <h2>- Icones na tela de usuarios [user_screen.dart]</h2>
 Estes icones são personalizados o widget personalizado esta em ui/custom_icon.dart e são colocados em user_screen.dart com o nome CustomIcon 
-<h1>Tela de editar usuarios [edit_user_screen.dart/edit_user.dart]</h1>
+<h2>Tela de editar usuarios [edit_user_screen.dart/edit_user.dart]</h2>
 neste file vai estar o navbar com um arrow para fazer um back to lastscreen e embaixo as informações do usuario: imagem, cpf, nome, email, data de nascimento, mas só da para editar a imagem é o email. Se o usuarui não tem imagem de perfil vai aparecer uma imagem por default sinza de um user, e assim que ele colocasse uma imagem já vai aparecer nessa mesma tela, depois de salvar vai carregar a imagem para o banco de dados e vao ser mandado para a tela de usuario.
