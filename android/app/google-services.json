@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794232678003",
+    "project_id": "openbank-dd5ee",
+    "storage_bucket": "openbank-dd5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794232678003:android:e5386aca9ec66dfea0ac06",
+        "android_client_info": {
+          "package_name": "com.database.openbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794232678003-cmdo99lvegimrk5ukf1g30h22nv0s2it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBUZpzaCEEtbuW7qYqaZFEeYyH2tnjcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794232678003-cmdo99lvegimrk5ukf1g30h22nv0s2it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
