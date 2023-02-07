@@ -1,3 +1,5 @@
+<h1>Descrilção</h1>
+Aplicativo feito com flutter do um OpenBank para dispositivos moveis utilizando o firestore como backend
 <h2> Divisão das pastas</h2>
 todo se contra na paste lib: começando pelos
 <h3> modelos: </h3> ai se contra o modelo utilizado para criar meu usuario dentro do banco de dados 
