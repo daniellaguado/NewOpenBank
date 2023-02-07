@@ -18,7 +18,7 @@ Na tela de login vai se achar os campos de correo electrónico e senha, os quais
 Na tela catastro temos mais Fields os quais cada um esta tipado segundo seja o caso:
 <h3> nome:</h3> permite nomes nomes com caracteres espereis tipo: jõao por exemplo, não esta permitido acabar o nome com espaço, mas, tem permitido colocar espaço entre palavras, por ejemplo é permitido: joão miguel
 <h3> CPF </h3>esta tipado para que sejam só números y cada 3 números vai ser colocado de forma automática um ponto e tambem uma listra para que tenha a forma de cpf, tem permitido colocar 11 números. 
-<h3>O campo tipo correio eletronico<h3> aceita só informação tipo correios.
+<h3>O campo tipo correio eletronico</h3> aceita só informação tipo correios.
 <h3> O campo data de nascimento:</h3> esse campo esta criado para que sejam aceito datos validas tanto como dia, mes e ano tem que ter coerença 
 <h3>O Campo da senha</h3> esta oculto mas tem um botão que da para ver a senha o cual tem uma pequena animação
 validação
